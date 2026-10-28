@@ -527,6 +527,14 @@ function main_func() {
             if (!text || text === key) text = loggedIn ? '已登录' : '未登录'
             label.textContent = text
         }
+        const menuLoginLabel = document.querySelector('#menuLoginLabel')
+        if (menuLoginLabel) {
+            const key = loggedIn ? 'logout_btn' : 'login_btn'
+            menuLoginLabel.setAttribute('data-i18n', key)
+            let text = typeof t === 'function' ? t(key) : key
+            if (!text || text === key) text = loggedIn ? '退出登录' : '登录'
+            menuLoginLabel.textContent = text
+        }
     }
 
     const applyLoginGate = () => {

@@ -1,7 +1,8 @@
 {
   "device": "Thiết bị",
   "func_list": "Danh sách chức năng",
-  "login_btn": "Đăng nhập/Đăng xuất",
+  "login_btn": "Đăng nhập",
+  "logout_btn": "Đăng xuất",
   "stop_refresh": "Dừng làm mới",
   "start_refresh": "Bắt đầu làm mới",
   "change_password": "Đổi mật khẩu",

@@ -1,7 +1,8 @@
 {
   "device": "设备",
   "func_list": "功能列表",
-  "login_btn": "登录/登出",
+  "login_btn": "登录",
+  "logout_btn": "退出登录",
   "stop_refresh": "停止刷新",
   "start_refresh": "开始刷新",
   "change_password": "更改密码",

@@ -1,7 +1,8 @@
 {
   "device": "Device",
   "func_list": "Function List",
-  "login_btn": "Login/out",
+  "login_btn": "Login",
+  "logout_btn": "Log out",
   "stop_refresh": "Stop Refresh",
   "start_refresh": "Start Refresh",
   "change_password": "Change Password",

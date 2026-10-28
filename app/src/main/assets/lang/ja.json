@@ -1,7 +1,8 @@
 {
   "device": "デバイス",
   "func_list": "機能一覧",
-  "login_btn": "ログイン/ログアウト",
+  "login_btn": "ログイン",
+  "logout_btn": "ログアウト",
   "stop_refresh": "更新停止",
   "start_refresh": "更新開始",
   "change_password": "パス変更",
