@@ -125,7 +125,7 @@ cd ../..
 ```
 
 安装：`adb install -r UFI-TOOLS_WEB_V4.1.5_<时间戳>.apk`
-
+运行 `adb shell am start -n "com.minikano.f50_sms/.MainActivity" >/dev/null`
 ---
 
 ## 声明
